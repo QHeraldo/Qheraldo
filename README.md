@@ -3,9 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/QHeraldo/OS-Ticket-Prerequisite)
-  - [osTicket: Post-Installation Configuration](https://github.com/QHeraldo/OS-Ticket-Prerequisite)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/QHeraldo/OS-Ticket-Prerequisite)
+  - [osTicket: Prerequisites and Installation](https://github.com/QHeraldo/OS-Ticket-Prerequisite - )
+  - [osTicket: Post-Installation Configuration](https://github.com/QHeraldo/OS-Ticket-Prerequisite - )
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/QHeraldo/OS-Ticket-Prerequisite - )
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs]
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]
