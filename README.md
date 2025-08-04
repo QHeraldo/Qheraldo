@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/QHeraldo/OS-Ticket-Prerequisite - )
   - [osTicket: Ticket Lifecycle Examples](https://github.com/QHeraldo/OS-Ticket-Prerequisite - )
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]
+  - [Configuring Active Directory within Azure VMs]
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]
 
 <h2>🤳Connect with me:</h2>
